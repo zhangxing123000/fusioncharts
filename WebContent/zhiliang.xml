@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<chart caption='' bgColor='FFFFFF' showBorder='0' 
+canvasBorderColor='FCFCFC' plotGradientColor='' showPlotBorder='0' legendBgColor='FCFCFC' 
+legendBorderColor='FCFCFC' legendShadow='0' use3DLighting='0' baseFont='SimSun' labelDisplay='wrap'
+ skipOverlapLabels='0' baseFontSize ='12' borderAlpha='0' showvalues='1' canvasborderalpha='0' legendBorderAlpha='0' 
+ legendShadow='1' showPlotBorder='0' setadaptiveymin='0' setadaptivesymin='1' 
+ paletteColors='329cd5,2046b2,3a156d' baseFont='SimSun' 
+ baseFontSize ='10' lineThickness='1' legendposition='center' plotGradientColor=''>
+   <categories>
+	   <category label='2012年'/>
+	   <category label='2013年'/>
+	   <category label='2014年'/>
+	   <category label='2015年'/>
+	   <category label='2016年'/>
+   </categories>
+   
+ 	<dataset>
+	   <set value='92.61'/>
+	   <set value='96.87'/>
+	   <set value='99.68'/>
+	   <set value='96.89'/>
+	   <set value='98.28'/>
+   </dataset>
+   <styles><definition>
+   <style name='myCaptionFont' type='font' align='center' color='3d80c2' /></definition><application><apply toObject='Caption' styles='myCaptionFont' />
+   </application></styles></chart>

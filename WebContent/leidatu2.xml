@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<chart caption='' canvasborderalpha='0' radarborderalpha='50' radarborderthickness='1'
+  		 		radarfillcolor='FFFFFF' showlabels='1' drawanchors='0' ymaxvalue='100' showlimits='0'
+  		 		bgcolor='FFFFFF' legendborderalpha='0' showborder='0' showvalues='1'  legendPosition='right' baseFontSize ='12' >
+   <categories>
+	   <category label='质量'/>
+	   <category label='效率'/>
+	   <category label='安全'/>
+   </categories>
+ 	<dataset>
+	   <set value='100'/>
+	   <set value='50'/>
+	   <set value='100'/>
+   </dataset>
+   <styles><definition>
+   <style name='myCaptionFont' type='font' align='center' color='3d80c2' /></definition><application><apply toObject='Caption' styles='myCaptionFont' />
+   </application></styles></chart>

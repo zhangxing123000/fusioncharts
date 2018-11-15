@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<chart caption='各专业公司统计图表' bgColor='FFFFFF' showBorder='0' 
+canvasBorderColor='FCFCFC' plotGradientColor='' showPlotBorder='0' legendBgColor='FCFCFC' 
+legendBorderColor='FCFCFC' legendShadow='0' use3DLighting='0' baseFont='SimSun' labelDisplay='wrap'
+ skipOverlapLabels='0' baseFontSize ='12' borderAlpha='0' showvalues='1' canvasborderalpha='0' legendBorderAlpha='0' 
+ legendShadow='1' showPlotBorder='0' setadaptiveymin='0' setadaptivesymin='1' 
+ paletteColors='f2c500,1aaf5d,0075c2,f45b00,8e0000,a1cc32,329cd5,2046b2,3a156d' baseFont='SimSun' 
+ baseFontSize ='10' lineThickness='3' legendposition='center' plotGradientColor=''>
+   
+   <set label='通号' value='257'/>
+   <set label='车辆' value='107'/>
+   <set label='工务' value='19'/>
+   <set label='供电' value='55'/>
+   <set label='后勤' value='26'/>
+   <styles><definition>
+   <style name='myCaptionFont' type='font' align='center' color='3d80c2' /></definition><application><apply toObject='Caption' styles='myCaptionFont' />
+   </application></styles></chart>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<chart palette='1' labelDisplay='auto' baseFontSize ='12'  setAdaptiveYMax='1' 
+yAxisMaxValue='1000000'paletteColors='#f09310,#119fd3' bgAlpha='0' canvasBgAlpha='0'
+ showLegend='1' showBorder='0' showvalues='1'  canvasborderalpha='0' legendBorderAlpha='0' 
+ bgcolor='ffffff' > 
+ <categories>
+ <category label='0' />
+ <category label='1' />
+ </categories>
+ <dataset renderAs='Line' lineThickness='1' parentYAxis='P' seriesName='一号线' anchorBgColor='#f09310'>
+ <set value='482698' />
+ <set value='472469' />
+ </dataset>
+ <styles>
+ <definition>
+ <style name='myCaptionFont' type='font' align='center' color='3d80c2' />
+</definition><application><apply toObject='Caption' styles='myCaptionFont' />
+</application>
+</styles>
+</chart>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<chart caption='' manageresize='1' origw='400' origh='250' managevalueoverlapping='1' 
+  		 		autoaligntickvalues='1' bgcolor='FFFFFF' fillangle='45' upperlimit='100' lowerlimit='0'
+  		 		 majortmnumber='10' majortmheight='8'  valuebelowpivot='1'showgaugeborder='0' 
+  		 		 gaugeouterradius='140' gaugeoriginx='205' gaugeoriginy='206'
+  		 		showvalue='1' showborder='0' clickURL='./DispatchAction.do?efFormEname=QKSY0424'>
+   <colorrange>
+	   <color minvalue='0' maxvalue='30' code='ff0000' />
+	   <color minvalue='30' maxvalue='50' code='ff8000' />
+	   <color minvalue='50' maxvalue='70' code='ffff00' />
+	   <color minvalue='70' maxvalue='90' code='80ff80' />
+	   <color minvalue='90' maxvalue='100' code='00ff00' />
+   </colorrange>	
+   <dials>
+   		<dial value='100' borderalpha='0' bgcolor='000000' basewidth='20' topwidth='1' radius='130' />
+   </dials>
+ 	</chart>

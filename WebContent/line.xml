@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<chart caption='K线图' bgColor='FFFFFF' showBorder='0' 
+canvasBorderColor='FCFCFC' plotGradientColor='' showPlotBorder='0' legendBgColor='FCFCFC' 
+legendBorderColor='FCFCFC' legendShadow='0' use3DLighting='0' baseFont='SimSun' labelDisplay='wrap'
+ skipOverlapLabels='0' baseFontSize ='12' borderAlpha='0' showvalues='1' canvasborderalpha='0' legendBorderAlpha='0' 
+ legendShadow='1' showPlotBorder='0' setadaptiveymin='0' setadaptivesymin='1' 
+ paletteColors='329cd5,2046b2,3a156d' baseFont='SimSun' 
+ baseFontSize ='10' lineThickness='1' legendposition='center' plotGradientColor=''>
+   <categories>
+   <category label='12-07'/>
+   <category label='12-08'/>
+   <category label='12-09'/>
+   <category label='12-10'/>
+   <category label='12-11'/>
+   <category label='12-12'/>
+   <category label='12-13'/>
+   <category label='12-14'/>
+   <category label='12-15'/>
+   <category label='12-16'/>
+      <category label='12-17'/>
+   <category label='12-18'/>
+   <category label='12-19'/>
+   <category label='12-20'/>
+   <category label='12-21'/>
+   <category label='12-22'/>
+   <category label='12-23'/>
+   <category label='12-24'/>
+   <category label='12-25'/>
+   <category label='12-26'/>
+      <category label='12-27'/>
+   <category label='12-28'/>
+   <category label='12-29'/>
+   <category label='12-30'/>
+   <category label='12-31'/>
+   <category label='01-01'/>
+   <category label='01-02'/>
+   <category label='01-03'/>
+   <category label='01-04'/>
+   <category label='01-05'/>
+      <category label='01-06'/>
+   <category label='01-07'/>
+   <category label='01-08'/>
+   <category label='01-09'/>
+   <category label='01-10'/>
+   <category label='01-11'/>
+   <category label='01-12'/>
+   <category label='01-13'/>
+   <category label='01-14'/>
+   
+   </categories>
+   
+ 	<dataset>
+   <set value='42.61'/>
+   <set value='46.87'/>
+   <set value='51.55'/>
+   <set value='56.7'/>
+   <set value='63.37'/>
+   <set value='68.6'/>
+   <set value='75.46'/>
+   <set value='77.53'/>
+   <set value='85.28'/>
+   <set value='90.90'/>
+    <set value='92.68'/>
+   <set value='95.18'/>
+   <set value='91.7'/>
+   <set value='89.13'/>
+   <set value='93.22'/>
+   <set value='94.91'/>
+   <set value='95.79'/>
+   <set value='99.55'/>
+   <set value='102.72'/>
+   <set value='100.18'/>
+   <set value='97.87'/>
+   <set value='99.24'/>
+   <set value='97.26'/>
+   <set value='100.66'/>
+   
+   <set value='102.09'/>
+    <set value='99.68'/>
+   <set value='96.89'/>
+   <set value='94.28'/>
+   <set value='96.91'/>
+   <set value='103.98'/>
+   <set value='106.92'/>
+   <set value='110.76'/>
+   <set value='116.87'/>
+   <set value='119.55'/>
+   <set value='107.59'/>
+   <set value='96.83'/>
+   <set value='87.14'/>
+   <set value='80.17'/>
+   <set value='73.76'/>
+   </dataset>
+   <styles><definition>
+   <style name='myCaptionFont' type='font' align='center' color='3d80c2' /></definition><application><apply toObject='Caption' styles='myCaptionFont' />
+   </application></styles></chart>

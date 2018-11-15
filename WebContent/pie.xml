@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<chart caption= '各单位月度故障接报情况' use3DLighting='0' showvalues='1' bgcolor='#ffffff' paletteColors='#0075c2,#1aaf5d,#f2c500,#f45b00,#8e0000'
+	showShadow='0' enableSmartLabels='1' startingAngle='310' showLabels='1'   showLegend='1' legendShadow='1' legendBorderAlpha='0'
+	defaultCenterLabel='总数为XXX' centerLabel='total' centerLabelBold='1' showToolTip='1' decimals='1' captionFontSize='14' subcaptionFontSize='14' setadaptivesymin='1'
+	subcaptionFontBold='1' skipOverlapLabels='1'>
+   
+   <set label='通号' value='257'/>
+   <set label='车辆' value='107'/>
+   <set label='工务' value='19'/>
+   <set label='供电' value='55'/>
+   <set label='后勤' value='26'/>
+   <styles><definition>
+   <style name='myCaptionFont' type='font' align='center' color='3d80c2' /></definition><application><apply toObject='Caption' styles='myCaptionFont' />
+   </application></styles></chart>
